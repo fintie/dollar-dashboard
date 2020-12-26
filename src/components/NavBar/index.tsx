@@ -40,7 +40,7 @@ function NavBar({
           <div style={{ display: 'flex', paddingTop: '24px'}}>
             <div style={{ width: '20%', textAlign: 'left'}}>
               <LinkBase onClick={() => history.push('/')} style={{marginRight: '16px', height: '40px'}}>
-                <img src={logoUrl} height="40px" alt="Empty Set Dollar"/>
+                <img src="./logo/logo_ng.jpg" height="40px" alt="Empty Set Dollar"/>
               </LinkBase>
             </div>
             <div style={{ width: '60%', textAlign: 'center' }}>
